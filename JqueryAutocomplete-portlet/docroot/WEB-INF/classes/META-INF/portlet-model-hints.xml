@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+
+<model-hints>
+	<model name="com.sample.harish.model.Student">
+		<field name="studentId" type="long" />
+		<field name="studentName" type="String" />
+		<field name="course" type="String" />
+	</model>
+</model-hints>

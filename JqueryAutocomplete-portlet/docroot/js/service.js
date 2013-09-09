@@ -1,0 +1,1 @@
+Liferay.Service.register("Liferay.Service.harish", "com.sample.harish.service", "JqueryAutocomplete-portlet");
